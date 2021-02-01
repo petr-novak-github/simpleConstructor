@@ -1,0 +1,7 @@
+C:\Users\petr8\Desktop\cSharpRekavalifikace\04-ucim-se-2021-02-01\02-simpleConstructor\stuff\simpleConstructor\bin\Debug\simpleConstructor.exe.config
+C:\Users\petr8\Desktop\cSharpRekavalifikace\04-ucim-se-2021-02-01\02-simpleConstructor\stuff\simpleConstructor\bin\Debug\simpleConstructor.exe
+C:\Users\petr8\Desktop\cSharpRekavalifikace\04-ucim-se-2021-02-01\02-simpleConstructor\stuff\simpleConstructor\bin\Debug\simpleConstructor.pdb
+C:\Users\petr8\Desktop\cSharpRekavalifikace\04-ucim-se-2021-02-01\02-simpleConstructor\stuff\simpleConstructor\obj\Debug\simpleConstructor.csprojAssemblyReference.cache
+C:\Users\petr8\Desktop\cSharpRekavalifikace\04-ucim-se-2021-02-01\02-simpleConstructor\stuff\simpleConstructor\obj\Debug\simpleConstructor.csproj.CoreCompileInputs.cache
+C:\Users\petr8\Desktop\cSharpRekavalifikace\04-ucim-se-2021-02-01\02-simpleConstructor\stuff\simpleConstructor\obj\Debug\simpleConstructor.exe
+C:\Users\petr8\Desktop\cSharpRekavalifikace\04-ucim-se-2021-02-01\02-simpleConstructor\stuff\simpleConstructor\obj\Debug\simpleConstructor.pdb
